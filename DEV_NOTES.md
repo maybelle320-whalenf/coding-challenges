@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Resolved TODO items from previous session
 - Verified API endpoint response schema
+
+## 2026-03-23
+- Tidied up project structure
