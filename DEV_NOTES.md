@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Updated dependencies to latest stable versions
 - Fixed off-by-one error in loop
+
+## 2026-04-06
+- Wrote notes on upcoming feature design
+- Drafted initial implementation plan for v2
+- Bumped patch version
